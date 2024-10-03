@@ -33,4 +33,6 @@ This system consists of two key components:
 ### Web Service
 - .NET Framework (or compatible version) for the web service
 - Hosting environment for running the web service (IIS, etc.)
+
+![image info](./images/nordic.png)
   
