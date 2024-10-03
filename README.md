@@ -2,6 +2,8 @@
 
 This is an example of an Inventory Management System designed to work with the **Nordic ID Merlin RFID Reader**, running a Windows CE application that interacts with a web service to manage asset data. The system performs asset lookup, barcode scanning, and asset group management via the web service.
 
+We used the https://github.com/leosep/InventoryLabelPrinter to print and add the RFIDs.
+
 ## Project Overview
 
 This system consists of two key components:
